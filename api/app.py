@@ -1,7 +1,7 @@
 from fastapi import FastAPI, Request, Query, Depends
 from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
-from Book_recommender import *
+from api.Book_recommender import *
 import pandas as pd
 
 app = FastAPI()

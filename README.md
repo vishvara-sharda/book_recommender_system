@@ -5,7 +5,7 @@
 ## Project Screenshots
 
 #### Example Input
-![Before Running](https://github.com/vishvara-sharda/Book-Recommender/blob/main/Images/Image1.png?raw=true)
+![Before Running](https://github.com/vishvara-sharda/Book-Recommender/blob/main/images/Image1.png?raw=true)
 
 #### Recommendations
-![After Running](https://github.com/vishvara-sharda/Book-Recommender/blob/main/Images/Image2.png?raw=true)
+![After Running](https://github.com/vishvara-sharda/Book-Recommender/blob/main/images/Image2.png?raw=true)
